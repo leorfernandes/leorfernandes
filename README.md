@@ -5,7 +5,7 @@ I bridge the gap between "it works" and "it's reliable." With a background in **
 
 ---
 
-### 🛠️ My Technical Toolbox
+### My Technical Toolbox
 
 | Category | Technologies |
 | :--- | :--- |
@@ -17,30 +17,27 @@ I bridge the gap between "it works" and "it's reliable." With a background in **
 
 ---
 
-### 🚀 Featured Portfolio Projects
+### Featured Portfolio Projects
 
-#### [🛡️ Data Integrity & System Validation Framework](https://github.com/leorfernandes/The-Internet-QA-Suite)
+#### [Data Integrity & System Validation Framework](https://github.com/leorfernandes/The-Internet-QA-Suite)
 * **The Goal:** Validate enterprise-grade networked systems using ISO 29119 standards.
 * **The Tech:** JavaScript, Playwright, SQL.
 * **Key Feature:** Implemented **chained locators** and **asynchronous logic** to handle randomized dynamic content without test flakiness.
 
-#### [🧪 AI Recipe Generator](https://github.com/leorfernandes/ai-recipe-generator)
+#### [AI Recipe Generator](https://github.com/leorfernandes/ai-recipe-generator)
 * **The Goal:** Ensure 100% database integrity and UI consistency for an AI-driven platform.
 * **Key Feature:** Used **API-driven state injection** to bypass redundant UI logins, speeding up test execution by 40%.
 
 ---
 
-### 📈 Current Focus
-- 🎓 Completing my **CIS Diploma** at University of the Fraser Valley (GPA 3.68).
-- 📜 Studying for the **ISTQB Foundational Level** certification.
-- 📍 Open to relocate for local & remote roles.
+### Current Focus
+- Completing my **CIS Diploma** at University of the Fraser Valley (GPA 3.68).
+- Studying for the **ISTQB Foundational Level** certification.
+- Open to relocate for local & remote roles.
 
 ---
 
-### 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardodosreisfernandes/)
-- 📧 [leo.fernandes.contact@gmail.com](mailto:leo.fernandes.contact@gmail.com)
-- 📞 (604) 367-7294
-
----
-*“Testing is an opportunity to understand the software better than the person who wrote it.”*
+### Connect with me
+- [LinkedIn](https://www.linkedin.com/in/leonardodosreisfernandes/)
+- [leo.fernandes.contact@gmail.com](mailto:leo.fernandes.contact@gmail.com)
+- (604) 367-7294
