@@ -28,6 +28,14 @@ I bridge the gap between "it works" and "it's reliable." With a background in **
 * **The Goal:** Ensure 100% database integrity and UI consistency for an AI-driven platform.
 * **Key Feature:** Used **API-driven state injection** to bypass redundant UI logins, speeding up test execution by 40%.
 
+### [CineMetrics (Archived Project)](https://github.com/leorfernandes/Movie-Analytics-Platform)
+*A deep dive into data engineering and API integration.*
+
+**Project Philosophy:** This project served as my sandbox for mastering **Data Pipelines** and **ORM (SQLAlchemy)**. While currently archived, it highlights my proficiency in:
+* **Workflow Automation:** Implemented feature-branching strategies and pre-commit hooks.
+* **Data Engineering:** ETL pipelines combining multiple external data sources.
+* **Problem Solving:** Navigating complex API integrations and database schema design.
+
 ---
 
 ### Current Focus
