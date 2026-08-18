@@ -17,7 +17,7 @@ Docker, Kubernetes, Terraform (AWS & Azure)
   (Minikube), with Terraform IaC provisioning AWS (RDS, ECR, EC2, EKS paths) and Azure
   infrastructure, plus a full CI/CD pipeline in GitHub Actions (xUnit tests, Docker build,
   scripted smoke tests).
-- **Homelab Infrastructure** — Self-hosted Linux server running 15+ containerized services
+- **[Homelab Infrastructure](https://github.com/leorfernandes/Homelab-Infrastructure/)** — Self-hosted Linux server running 15+ containerized services
   in daily production use (media streaming, automated backups, monitoring), with reverse
   proxy routing, uptime monitoring, and SSH intrusion prevention.
 
